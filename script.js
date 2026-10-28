@@ -1,5 +1,5 @@
 const config = {
-  ctaUrl: "https://t.me/+z_UERU-tzFU2ZjM1",
+  ctaUrl: "https://t.me/+qH1qTFnA2NdmMmRl",
   logoUrl: "/image.png",
 };
 
